@@ -5,3 +5,4 @@ This is the first version, a newer version is coming soon but in the meantime we
 ![Screenshot](https://i.imgur.com/iSIlfNh.png)
 
 It's licensed under WTFPL. It's a hack and I don't recommend taking any of this code seriously.
+Dependencies: JSON, Zip4j
